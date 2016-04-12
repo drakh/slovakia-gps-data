@@ -2,9 +2,10 @@
 
 Geo database of Slovak
 
-* cities
-* regions
-* districts
+* cities (points)
+* regions (borders)
+* districts (borders)
+* country (borders)
 
 All data in
 
