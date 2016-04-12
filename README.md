@@ -1,16 +1,18 @@
 # slovakia-gps-data
 
 Geo database of Slovak
-	* cities
-	* regions
-	* districts
+
+* cities
+* regions
+* districts
 
 All data in
-	* GeoJSON
-		* EPSG 4326 (lat/lon WGS84)
-		* EPSG 3395 (x/y world mercator)
-	* SHP
-		* EPSG 4326 (lat/lon WGS84)
+
+* GeoJSON
+  * EPSG 4326 (lat/lon WGS84)
+  * EPSG 3395 (x/y world mercator)
+* SHP
+  * EPSG 4326 (lat/lon WGS84)
 
 ## data sources used to create
 
